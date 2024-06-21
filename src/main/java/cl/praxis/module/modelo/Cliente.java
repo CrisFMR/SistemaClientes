@@ -71,7 +71,7 @@ public class Cliente {
                 + "Nombre del Cliente: " + nombreCliente + "\n"
                 + "Apellido del Cliente: " + apellidoCliente + "\n"
                 + "Años como Cliente: " + aniosCliente + "\n"
-                + "Categoria del Cliete: " + nombreCategoria + "\n" + "\n"
+                + "Categoria del Cliente: " + nombreCategoria + "\n" + "\n"
                 + "----------------------------";
     }
 
